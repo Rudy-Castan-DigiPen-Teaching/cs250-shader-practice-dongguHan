@@ -5,4 +5,6 @@
 
 [Shaping Functions](draw.html?shader=01_shaping.frag)
 
-[Circle](draw.html?shader=02_circle.frag)
+[Gradient](draw.html?shader=02_gradient.frag)
+
+[H.S.V](draw.html?shader-03_hsv.frag)
